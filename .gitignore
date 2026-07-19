@@ -1,0 +1,38 @@
+# PowerPoint files (use PDF for distribution)
+*.pptx
+*.ppt
+
+# Temporary Office lock files
+~$*
+
+# Internal working documents
+design-brief*
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.nav
+*.snm
+*.toc
+*.vrb
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.dvi
+*.fot
+*.lof
+*.lot
+*.run.xml
+*.bcf
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
